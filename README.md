@@ -11,6 +11,47 @@ Edge AI Attendance and Authentication Solution for Remote Environments
 </p>
 
 ---
+# Working Demonstration
+
+## Face Detection and Recognition
+
+<p align="center">
+  <img src="WORKING/2.jpg" width="90%">
+</p>
+
+---
+
+## Liveness Verification
+
+<p align="center">
+  <img src="WORKING/3.png" width="90%">
+</p>
+
+---
+
+## Authentication Result
+
+<p align="center">
+  <img src="WORKING/4.png" width="90%">
+</p>
+
+---
+
+## Real-Time Recognition Pipeline
+
+<p align="center">
+  <img src="WORKING/5.png" width="90%">
+</p>
+
+---
+
+## Offline Attendance Workflow
+
+<p align="center">
+  <img src="WORKING/6.png" width="90%">
+</p>
+
+---
 
 # Overview
 
@@ -219,47 +260,7 @@ The system includes:
 
 ---
 
-# Working Demonstration
 
-## Face Detection and Recognition
-
-<p align="center">
-  <img src="WORKING/2.jpg" width="90%">
-</p>
-
----
-
-## Liveness Verification
-
-<p align="center">
-  <img src="WORKING/3.png" width="90%">
-</p>
-
----
-
-## Authentication Result
-
-<p align="center">
-  <img src="WORKING/4.png" width="90%">
-</p>
-
----
-
-## Real-Time Recognition Pipeline
-
-<p align="center">
-  <img src="WORKING/5.png" width="90%">
-</p>
-
----
-
-## Offline Attendance Workflow
-
-<p align="center">
-  <img src="WORKING/6.png" width="90%">
-</p>
-
----
 
 # Planned Improvements
 
